@@ -1,0 +1,8 @@
+Modular path for the API Development
+
+1. Interface or Type for typescript definitions
+2. Model using  Mongoose Schema
+3. Zod Validation Schema
+4. Routes
+5. Controllers 
+6. Services 
